@@ -1,3 +1,4 @@
-/.devcontainer
 /.vscode
 /spark_env
+requirements.txt
+.log
